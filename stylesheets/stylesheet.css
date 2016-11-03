@@ -1,0 +1,79 @@
+@charset "utf-8";
+/* Palmer CSS Document - 11/01/2016 */
+
+body {
+	background-color: #000000;
+	width: 720px;
+  margin: 0;
+  padding: 0;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+header {
+	color: #ffffff;
+  margin: 0;
+}
+
+nav {
+	background-color: #cccccc;	
+	margin: 0px;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+}
+
+nav ul li {
+	display: inline-block;
+	list-style-type: none;
+	padding: 10px 20px;
+}
+
+
+article {
+	background-color: #ffffff;
+  margin: 0;
+  padding: 10px 15px;
+	}
+
+
+#main_kitties {
+  padding: 0px 20px;
+  width: 400px;
+	margin: 0;
+}
+
+#main_kitties {
+  padding: 0px 20px;
+  width: 400px;
+	margin: 0;
+}
+
+#column_kitties {
+	width: 240px;
+	float: right;
+	border: solid 1px;
+	margin: 10px;
+}
+
+p {
+	font-size: 16px;
+	line-height: 22px;
+	margin: 4px;
+}
+
+h2 {
+	margin: 0px;
+}
+
+footer {
+	background-color: #000000;
+  margin: 0;
+  padding: 15px;
+  color: #ffffff;
+}
+
+
